@@ -1,0 +1,2 @@
+# Pokedex-Replica
+[Study Project]
