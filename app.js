@@ -37,7 +37,7 @@ let prevUrl = null;
 let nextUrl = null;
 
 // Functions
-const capitalize = (str) => str[0].toUpperCase() + str.substr(1);
+const capitalize = (str) => str[0].toUpperCase() + str.slice(1);
 
 const resetScreen = () => {
   mainScreen.classList.remove("hide");
